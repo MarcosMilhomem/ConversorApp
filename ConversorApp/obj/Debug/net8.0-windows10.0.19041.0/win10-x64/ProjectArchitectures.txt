@@ -1,0 +1,1 @@
+C:\Users\marco\Documents\programas\ConversorApp\ConversorApp\ConversorApp.csproj;x64
